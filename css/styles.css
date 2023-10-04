@@ -321,7 +321,7 @@ img {
 .social-icon-link:hover, .social-icon-link:focus {
     background-color: #404bbf;
 }
-.team-icon {
+.workers-social-icon {
     fill: #F4F4FD;
 }
 .portfolio_block{
@@ -401,7 +401,7 @@ img {
     background-color: #2E2F42;
     padding: 100px 0;
 }
-.footer .container {
+.footer-block .container {
     display: flex;
     align-items: baseline;
 }
