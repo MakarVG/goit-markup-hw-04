@@ -160,6 +160,9 @@ img {
     margin: 0 auto;
     max-width: 1440px;
     background-image: linear-gradient(#2e2f42b3, #2e2f42b3), url(../images/slider-bg-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .slider_header{
