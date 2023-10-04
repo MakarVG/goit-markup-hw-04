@@ -164,17 +164,15 @@ img {
 
 .slider_header{
     color: var(--WHITE, #FFF);
-        text-align: center;
-    
-        /* Header 1 */
-        font-family: "Roboto",sans-serif;
-        font-size: 56px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 1.07;
-        /* 107.143% */
-        letter-spacing: 1.12px;
-        max-width: 496px;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 1.12px;
+    max-width: 496px;
+    margin: 48px auto;
 }
 .slider_order_button{
     background: var(--IRIS, #4D5AE5);
@@ -233,7 +231,7 @@ img {
     padding: 0;
 }
 .advantages_listing{
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 3);
 }
 .advantages-icons{
     background-color: #F4F4FD;
@@ -244,6 +242,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    fill: #FFFFFF;
 }
 .adv-icon-svg {
     fill: #2E2F42;
