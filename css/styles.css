@@ -155,6 +155,7 @@ img {
     width: 100%;
     margin: 0 auto;
     max-width: 1440px;
+    height: 600px;
     background-image: linear-gradient(#2e2f42b3, #2e2f42b3), url(../images/slider-bg-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
