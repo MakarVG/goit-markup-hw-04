@@ -201,6 +201,7 @@ img {
 }
 .slider_order_button:hover, .slider_order_button:focus{
     background-color: #404BBF;
+    color:var(--c-white, #fff)
 }
 
 .advantages_block, .team_block, .portfolio_block{
